@@ -11,7 +11,7 @@ do.systemless=0
 do.cleanup=1
 do.cleanuponabort=1
 device.name1=
-supported.versions=14 - 16
+supported.versions=14 - 17
 #supported.patchlevels=2025-09-05
 #supported.vendorpatchlevels=2023-03-01
 '; } # end properties
